@@ -1,6 +1,3 @@
-### old code for manuscript ###
-
-
 ## new code lol maybe this will help! ##
 
 
@@ -23,8 +20,6 @@ finaldata$avg_height <- center$avg_height
 finaldata$avg_canopy <- center$avg_canopy
 finaldata$num_clusters <- center$num_clusters
 finaldata$cwd <- center$cwd
-
-# comment
 
 ##### scale data #####
 # make sure to include this in paper somewhere
@@ -794,3 +789,4 @@ cowplot::save_plot(
 )
 
 final_B_lettered
+
